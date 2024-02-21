@@ -3,7 +3,7 @@
 
 ## Cada jefe debe hacer las siguientes acciones:
 
-1. Crear el workflow de su proyecto (en GitHub) donde describirá las acciones a llevar a cabo por cada desarrollador (README) 
+1. Crear el workflow de su proyecto (en GitHub) donde describirá las acciones a llevar a cabo por cada desarrollador (README) ✔
 2. Crear las tareas a realizar por cada desarrollador y asignárselos al mismo. 
 3. Revisar el trabajo realizado por cada desarrollador y validarlo
 
@@ -25,7 +25,7 @@ o Ordenar un Array de menor a mayor [Guille]
 ### Numero
 o Calcular el factorial [Alvaro]
 
-o Dado un número en segundos, devolver horas y minutos (3680 segundos son 1 hora, 1 min, y 20 segundos). [Victor]
+o Dado un número en segundos, devolver horas y minutos (3680 segundos son 1 hora, 1 min, y 20 segundos). [Victor] 
 
 ### String
 o Devolver el número de ocurrencias de una letra [Alvaro]
