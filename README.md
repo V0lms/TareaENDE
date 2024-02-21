@@ -10,28 +10,26 @@
 ## Cada desarrollador debe hacer las siguientes acciones:
 
 1. Desarrollar las mejoras que le asigne su jefe de proyecto, esto consiste en crear una función que satsifaga la especificación, asignarle un nombre y parámetros. 
-2. Crear la rama con el mismo nombre de la mejora que le hayan asignado, que será donde desarrolla los métodos correspondientes 
-3. Una vez finalizada integrarla en la rama “dev” (o la rama de desarrollo principal) del proyecto. Aquí abajo dejo un ejemplo de flujo de un repositorio
+2. Crear la rama con el mismo nombre de la mejora que le hayan asignado, que será donde desarrolla los métodos correspondientes.
+3. Una vez finalizada integrarla en la rama “dev” (o la rama de desarrollo principal) del proyecto. Aquí abajo dejo un ejemplo de flujo de un repositorio.
+4. Cuando finalice una mejora deberá actualizar la tarea y establecerla como cerrada.
 
 ## Codigo a realizar
 
-Al proyecto debemos realizar las siguientes mejoras, cada una en una
-función diferente:
+Al proyecto debemos realizar las siguientes mejoras, cada una en una función diferente:
 
 ### Array
 
-o Ordenar un Array de menor a mayor
+o Ordenar un Array de menor a mayor [Guille]
 
 ### Numero
-o Calcular el factorial
+o Calcular el factorial [Alvaro]
 
-o Dado un número en segundos, devolver horas y minutos (3680
-segundos son 1 hora, 1 min, y 20 segundos).
+o Dado un número en segundos, devolver horas y minutos (3680 segundos son 1 hora, 1 min, y 20 segundos). [Victor]
 
 ### String
-o Devolver el número de ocurrencias de una letra
+o Devolver el número de ocurrencias de una letra [Alvaro]
 
-o Dados dos Strings distintos, hacer que se repitan las veces que
-informe el usuario.
+o Dados dos Strings distintos, hacer que se repitan las veces que informe el usuario. [Nico]
 
-o Dado un String, repetir cada ocurrencia de su letra. Por ejemplo: NBA se convierte en NNBBAA, Madrid en MMaaddrriidd.
+o Dado un String, repetir cada ocurrencia de su letra. Por ejemplo: NBA se convierte en NNBBAA, Madrid en MMaaddrriidd. [Nico]
