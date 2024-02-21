@@ -6,7 +6,7 @@ git config --global user.email "TuCorreo"
 ```
 ### Vincular repositorio local con el de github
 ```bash
-git remote add origin https://github.com/V0lms/TareaENDE/
+git remote add origin https://github.com/V0lms/TareaENDE.git  
 ```
 ## Subir usando git
 ### COMMIT (Es lo de siempre)
