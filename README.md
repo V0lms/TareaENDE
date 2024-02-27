@@ -33,3 +33,6 @@ o Devolver el número de ocurrencias de una letra [Alvaro]
 o Dados dos Strings distintos, hacer que se repitan las veces que informe el usuario. [Nico]
 
 o Dado un String, repetir cada ocurrencia de su letra. Por ejemplo: NBA se convierte en NNBBAA, Madrid en MMaaddrriidd. [Nico]
+
+
+##### En caso de dudas mirar el INFO.md
