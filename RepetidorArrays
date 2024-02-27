@@ -1,1 +1,35 @@
+package gitup;
+
+import java.util.Scanner;
+
+public class RepetirArrays {
+
+    public static void main(String[] args) {
+
+        Scanner sc = new Scanner(System.in);
+
+        System.out.print("Ingresa el primer string: ");
+        String primerString = sc.nextLine();
+
+        System.out.print("Ingresa el segundo string: ");
+        String segundoString = sc.nextLine();
+
+        System.out.print("Cuantas veces quiere que se repita?: ");
+        int cantidadRepeticiones = sc.nextInt();
+
+        // Este es el objeto que realiza la acción
+        Repetidor repetidor = new Repetidor();
+        repetidor.repetirArrays(primerString, segundoString, cantidadRepeticiones);
+
+    }
+}
+
+class Repetidor {
+
+    public void repetirArrays(String primerString, String segundoString, int cantidadRepeticiones) {
+        for (int i = 0; i < cantidadRepeticiones; i++) {
+            System.out.println(primerString + " " + segundoString);
+        }
+    }
+}
 
