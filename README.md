@@ -4,7 +4,7 @@
 ## Cada jefe debe hacer las siguientes acciones:
 
 1. Crear el workflow de su proyecto (en GitHub) donde describirá las acciones a llevar a cabo por cada desarrollador (README) ✔
-2. Crear las tareas a realizar por cada desarrollador y asignárselos al mismo. 
+2. Crear las tareas a realizar por cada desarrollador y asignárselos al mismo. ✔
 3. Revisar el trabajo realizado por cada desarrollador y validarlo
 
 ## Cada desarrollador debe hacer las siguientes acciones:
