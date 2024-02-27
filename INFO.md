@@ -1,4 +1,8 @@
 # INFORMACION
+## Generar key
+https://docs.github.com/es/authentication/managing-commit-signature-verification/generating-a-new-gpg-key
+<br>
+Usar siempre las por defecto
 ## Subir cambios por Francisco Javier Magariño Cristobal
 1. Clonar el repositorio en el PC
 3. Crea un proyecto de Java en eclipse
